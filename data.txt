@@ -1,4 +1,0 @@
-Website              Email/Username          Password
--------------------  ----------------------  ----------
-http://www.nike.com  michael_jordan@unc.edu  belikemike
-http://www.apple.com  stevie@apple.com  thebigapple
